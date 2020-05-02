@@ -49,7 +49,7 @@ https://github.com/join
 ### Install Git
 Prior to using Git with RStudio you need to install Git. 
 
-- Windows & OS X: `https://git-scm.com/downloads`
+- Windows & OS X: <https://git-scm.com/downloads>
 - Debian/Ubuntu linux: `sudo apt-get install git-core`
 - Fedora/RedHat linux: `sudo yum install git-core`
 
